@@ -1,2 +1,5 @@
 This is yet another file in DemoApp folder.
 This file constais the info about GitHub and Git
+
+The info about this branch is added.
+The name of the branch is add-info
